@@ -1,0 +1,23 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Phyton
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data folders
+data/raw
+data/processed
+models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
